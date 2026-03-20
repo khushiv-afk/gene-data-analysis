@@ -1,1 +1,5 @@
-
+Gene,Expression,Length
+GeneA,12.5,1500
+GeneB,8.2,1200
+GeneC,15.0,1800
+GeneD,6.5,900
